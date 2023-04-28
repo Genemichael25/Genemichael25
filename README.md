@@ -1,5 +1,35 @@
 ### Hi there 👋
 
+
+## 🛠️ Tech Stack
+
+#### Programming Languages: 
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![ruby](https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white)
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![sql](https://img.shields.io/badge/sql-db7533?style=for-the-badge&logo=sql&logoColor=db7533)
+
+#### Programming Frameworks: 
+![rubyonrails](https://img.shields.io/badge/rubyonrails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![reactstrap](https://img.shields.io/badge/reactstrap-white?style=for-the-badge&logo=react&logoColor=323330)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+
+#### Programming Databases: 
+![postgresql](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+![activerecord](https://img.shields.io/badge/activerecord-white?style=for-the-badge&logo=rubyonrails&logoColor=CC0000)
+
+#### Programming Testing: 
+![jest](https://img.shields.io/badge/Jest-853957?style=for-the-badge&logo=jest&logoColor=white)
+![RSPEC](https://img.shields.io/badge/RSPEC-fc9cac?style=for-the-badge&logo=ruby&logoColor=6ce0f9)
+
+## 🔗 Let's Connect!
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gene-martinez/)
 <!--
 **Genemichael25/Genemichael25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
