@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 🤙🏽
 
+<!-- ### A bit about me... -->
 
-## 🛠️ Tech Stack
+Im Gene! A full stack developer that loves working with other people! 
+
+## 👨🏽‍💻 Tech Stack
 
 #### Programming Languages: 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -11,14 +14,9 @@
 ![sql](https://img.shields.io/badge/sql-db7533?style=for-the-badge&logo=sql&logoColor=db7533)
 
 #### Programming Frameworks: 
-![rubyonrails](https://img.shields.io/badge/rubyonrails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![rubyonrails](https://img.shields.io/badge/rubyonrails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![reactstrap](https://img.shields.io/badge/reactstrap-white?style=for-the-badge&logo=react&logoColor=323330)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
 
 #### Programming Databases: 
 ![postgresql](https://img.shields.io/badge/postgresql-white?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
